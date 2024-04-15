@@ -44,6 +44,9 @@ Service Worker Screen:
 IndexedDB Screen:
 ![Alt Text](./screenshots/indexedDB-screen.png)
 
+App Manifest Screen:
+![Alt Text](./screenshots/manifest-screen.png)
+
 ## Video
 
 N/A
