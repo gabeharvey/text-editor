@@ -29,6 +29,8 @@ There are two ways to access the application and its functionality. Firstly, the
 
 Tutor Assistance Provided by Alexis San Javier
 
+Starter Code Downloaded: https://github.com/coding-boot-camp/cautious-meme
+
 YouTube Channel Accessed for Function Guidance: https://www.youtube.com/@thoscalle4104 by Thomas Calle
 
 Project Done in Collaboration with coding students Kalyn Sifuentes, Joshua Hale, Christina Carroll and Itzel Hernandez.
